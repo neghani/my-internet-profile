@@ -4,4 +4,4 @@
 - Find best photos 
 - I will style my site
 - I will upload to a website 
-- so that I will share link and people will know me better
+- So that I will share link and people will know me better
