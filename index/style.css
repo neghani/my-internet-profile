@@ -1,0 +1,53 @@
+.container {
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  padding: 6px;
+}
+
+.left {
+  font-size: 26px;
+  flex: 2;
+}
+.right {
+  flex: 1;
+  padding: 0;
+}
+
+.right ul {
+  padding: 0;
+  margin: 0;
+}
+.right li {
+  font-size: 18px;
+  list-style: none;
+
+  color: #333;
+  text-align: right;
+}
+
+.topic-title {
+  font-size: 18px;
+  background-color: antiquewhite;
+  padding: 10px;
+  margin: 0;
+  margin-top: 0px;
+}
+.topic-subtitle {
+    font-size: 16px;
+    background-color: mistyrose;
+    padding: 6px;
+    margin: 0;
+    margin-top: 0px;
+  }
+
+  .topic-list{
+      margin-top: 12px;
+  }
+ 
+
+  .topic-list li{
+      margin-top: 6px;
+  }
